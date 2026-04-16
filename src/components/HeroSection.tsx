@@ -118,12 +118,18 @@ export default function HeroSection() {
               )}
             >
               <div className="flex flex-wrap gap-4">
-                <button className="rounded-none bg-white px-8 py-3 text-sm font-medium text-black transition-all hover:bg-white/90">
+                <a
+                  href="tel:+79095746381"
+                  className="rounded-none bg-white px-8 py-3 text-sm font-medium text-black transition-all hover:bg-white/90"
+                >
                   Получить консультацию
-                </button>
-                <button className="rounded-none border border-white/40 px-8 py-3 text-sm font-medium text-white transition-all hover:border-white hover:bg-white/10">
+                </a>
+                <a
+                  href="tel:+79095746381"
+                  className="rounded-none border border-white/40 px-8 py-3 text-sm font-medium text-white transition-all hover:border-white hover:bg-white/10"
+                >
                   Узнать стоимость
-                </button>
+                </a>
               </div>
             </div>
 
