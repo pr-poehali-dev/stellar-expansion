@@ -89,7 +89,7 @@ export default function HeroSection() {
               )}
             >
               <p className="text-lg font-light text-white/70 md:text-xl">
-                Полное ведение учёта для ИП и ООО · Более <strong className="text-white/90">10 лет опыта</strong><br />
+                Полное ведение учёта для ИП и ООО · Более <strong className="text-white/90">15 лет опыта</strong><br />
                 Собственные программы с доступом для вас
               </p>
             </div>
