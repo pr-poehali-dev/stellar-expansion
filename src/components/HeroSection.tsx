@@ -74,6 +74,7 @@ export default function HeroSection() {
                 isLoaded ? 'translate-x-0 opacity-100' : '-translate-x-8 opacity-0'
               )}
             >
+              <p className="text-sm uppercase tracking-widest text-white/40 mb-4">VikTan</p>
               <h1 className="text-4xl font-light leading-tight text-white md:text-5xl lg:text-6xl">
                 Профессиональная<br />
                 <span className="font-semibold">бухгалтерия</span><br />
