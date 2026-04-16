@@ -5,7 +5,6 @@ import Icon from '@/components/ui/icon';
 const images = [
   'https://cdn.poehali.dev/projects/6966ab5f-1a6b-440c-87cd-9bf16d089a26/bucket/2479bd26-bd2c-468f-928a-a26945f0edca.jpg',
   'https://cdn.poehali.dev/projects/6966ab5f-1a6b-440c-87cd-9bf16d089a26/bucket/1035529c-8091-4f46-90bd-6f95eae99f0b.jpg',
-  'https://cdn.poehali.dev/projects/6966ab5f-1a6b-440c-87cd-9bf16d089a26/bucket/847291b4-c162-46bb-91a1-445a0477a931.jpg',
   'https://cdn.poehali.dev/projects/6966ab5f-1a6b-440c-87cd-9bf16d089a26/bucket/a8080b34-2049-45ef-ab72-7eaf1547ac17.jpg',
 ];
 
