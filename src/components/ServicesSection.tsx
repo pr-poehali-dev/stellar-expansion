@@ -67,9 +67,15 @@ export default function ServicesSection() {
         </div>
 
         <div className="mt-12 border-t border-white/10 pt-10 text-center">
-          <p className="text-white/50">
-            Офис: <span className="text-white/80">Псков, Советская улица, 15</span>
-          </p>
+          <a
+            href="https://yandex.ru/maps/?text=Псков%2C+Советская+улица%2C+15"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 text-white/50 transition-colors hover:text-white"
+          >
+            <span>📍</span>
+            <span>Псков, Советская улица, 15</span>
+          </a>
           <p className="mt-1 text-sm text-white/30">Возможен выезд к вам на предприятие</p>
         </div>
       </div>
