@@ -92,6 +92,13 @@ export default function HeroSection() {
                 Полное ведение учёта для ИП и ООО · Более <strong className="text-white/90">15 лет опыта</strong><br />
                 Собственные программы с доступом для вас
               </p>
+              <a
+                href="tel:+79095746381"
+                className="inline-flex items-center gap-2 text-white text-xl font-light hover:text-white/80 transition-colors"
+              >
+                <Icon name="Phone" size={18} className="text-white/60" />
+                +7 909 574-63-81
+              </a>
             </div>
 
             <div
